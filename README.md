@@ -1,8 +1,8 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5935d734e3df28babfeb4b68/1561568009603-83H993L929848Y1DWVD9/Thinkset_Blockchain.gif?format=2500w
-)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5935d734e3df28babfeb4b68/1561568009603-83H993L929848Y1DWVD9/Thinkset_Blockchain.gif?format=2500w
+)
 <h1 align="center">Hi 👋, Welcome to Aniket's Github profile</h1>
 <h3 align="center">A passionate Blockchain Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/5429f443d929b6f56e21792899af311a.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/media/5429f443d929b6f56e21792899af311a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitaniket98&label=Profile%20views&color=0e75b6&style=flat" alt="gitaniket98" /> </p>
 
